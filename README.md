@@ -1,4 +1,4 @@
-# Xcillion-3 DNN theme
+# Xcillion-3 DNN theme - Bootstrap 3
 
 > A community-maintained revival of the classic DNN Xcillion theme designed as the migration bridge to Xcillion-5, which will be based on Bootstrap 5.
 
