@@ -18,10 +18,6 @@
 
 <dnn:META ID="META1" runat="server" Name="viewport" Content="width=device-width,initial-scale=1" />
 
-<!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
 
 <div id="siteWrapper">
 
