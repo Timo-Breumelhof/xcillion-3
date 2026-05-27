@@ -18,6 +18,14 @@ Start there for new projects; use Xcillion-3 when you need a gradual, page-by-pa
 
 ---
 
+### License
+
+Copyright (C) 2026 Timo Breumelhof / timo-design.nl. Licensed under the **GNU Lesser General Public License v3.0 or later** (LGPL-3.0-or-later). See [LICENSE](LICENSE) for the full terms.
+
+This project includes code derived from the original **Xcillion** project by XCESS (MIT licensed), **Bootstrap 3** by Twitter, Inc. (MIT licensed), **normalize.css** by Nicolas Gallagher and Jonathan Neal (MIT licensed), and **jQuery SmartMenus** by Vasil Dinkov, Vadikom Web Ltd. (MIT licensed). See [NOTICES](NOTICES) for full attribution.
+
+---
+
 Maintained by **Timo Breumelhof**. Found a bug or compatibility issue? Please open an issue — all reports are welcome and appreciated.
 
 ---
